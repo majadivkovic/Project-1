@@ -15,8 +15,8 @@ body {
 
 a {
   text-decoration: none;
-  color: rgb(10, 10, 10);
-}
+  color:white;
+  }
 a:hover {
   color: #6633ff;
 }
@@ -38,6 +38,7 @@ a:hover {
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
+  color:white;
 }
 
 .nav .name {
@@ -47,7 +48,7 @@ a:hover {
 }
 .nav li {
   padding: 5px 10px 10px 10px;
-}
+ }
 .nav a {
   transition: all .5s;
 }
@@ -205,4 +206,3 @@ a.social:hover {
   }
 
 }
-
